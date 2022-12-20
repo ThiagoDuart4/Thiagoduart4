@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Olá me chamo Thiago Duarte, sou uma pessoa desenvolvedora, ou melhor, uma pessoa em desenvolvimento.<br><br>Sou uma pessoa negra de pele clara, que vem de um lugar de muito difícil, onde a locomoção e tecnologia são de difícil acesso, e tenho como objetivo ocupar esses lugares que "não foram feitos para nos ocuparmos", onde a predominância é de pessoas brancas. Também tenho como principal objetivo levar a tecnologia a lugares onde ela é escassa, dar oportunidade a jovens como eu a ingressar nesse futuro brilhante que é o mundo TECH.<br><br>Estudei 3 meses Programação web pela Udemy com o professor Fernando, depois desse curto período ingressei na oportunidade que foi me dada pela prefeitura do Rio de janeiro através do curso Programadores carioca, financiado pelo governo e com a metodologia da Resilia e do Senac Rj. Estou em processo de formação ,porem já com experiência em projetos e metodologias ágeis e relações interpessoais.<br><br>Isso so é um pouco sobre mim, caso queira conversar e tomar um café,so entrar em contato ai hahaha!<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiagoduarte.nn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-duarte-n) 
 
 # 💻 Tech Stack:
@@ -15,7 +15,7 @@ Olá me chamo Thiago Duarte, sou uma pessoa desenvolvedora, ou melhor, uma pesso
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Thiagoduart4&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Citação
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
